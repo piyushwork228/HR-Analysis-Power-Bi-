@@ -4,6 +4,11 @@
 An interactive HR Analytics dashboard built in Power BI to analyze 
 employee attrition, satisfaction, and workforce demographics.
 
+## Short Description
+This Power BI dashboard analyzes HR data of 1,470 employees 
+to track attrition trends, job satisfaction, and workforce 
+demographics across departments, age groups, and education fields.
+
 ## 📌 Key Metrics
 - **Total Employees:** 1,470
 - **Attrition Count:** 237
@@ -30,3 +35,6 @@ employee attrition, satisfaction, and workforce demographics.
 - Microsoft Power BI Desktop
 - Microsoft Excel / CSV (data source)
 - DAX (for calculated measures)
+
+## Screenshot/Preview
+preview - (https://github.com/piyushwork228/HR-Analysis-Power-Bi-/blob/main/dashboard_overview.png)
