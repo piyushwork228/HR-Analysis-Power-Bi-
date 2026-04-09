@@ -38,4 +38,4 @@ demographics across departments, age groups, and education fields.
 
 ## Screenshot/Preview
 Dashboard Preview.
-![Dashboard Preview](https://github.com/piyushwork228/HR-Analysis-Power-Bi-/blob/main/dashboard_overview.png)
+![Dashboard Preview](https://github.com/piyushwork228/HR-Analysis-Power-Bi-/blob/main/dashboard_snapshot.png)
