@@ -37,4 +37,5 @@ demographics across departments, age groups, and education fields.
 - DAX (for calculated measures)
 
 ## Screenshot/Preview
-Preview of the Dashboard - (https://github.com/piyushwork228/HR-Analysis-Power-Bi-/blob/main/dashboard_overview.png)
+Dashboard Preview.
+![Dashboard Preview](https://github.com/piyushwork228/HR-Analysis-Power-Bi-/blob/main/dashboard_overview.png)
